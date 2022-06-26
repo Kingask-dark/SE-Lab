@@ -9,19 +9,17 @@ And for the test part i will first create a txt file which contains actual outpu
 
 after analysing i came to the estimates
 
--> creating data.txt file  							 5 min
--> Importing necessary packages/modules				 	 5 min
--> creating objects for employee customers 		     		 30 min
--> creating array of output data						 10 min
--> testing the data 								 30 min
+-> creating data.txt file  							                                                         5 min
+-> Importing necessary packages/modules				 	                                                 5 min
+-> creating objects for employee customers 		     		                                           30 min
+-> creating array of output data						                                                     10 min
+-> testing the data 								                                                             30 min
 
-
--> lines of code to import required packages/modules    		 2 lines
--> lines of codes for creating employee object           		 5 lines
--> lines of codes for creating customers object         		 5 lines
--> lines of code for creating transactions logic       		 15 lines
--> lines of code for creating array of output data			 5 lines
--> lines of code for reading actual output file and			 8 lines
-creating array of the actual output 
--> line of code for testing 							 10 lines
+-> lines of code to import required packages/modules    		                                     2 lines
+-> lines of codes for creating employee object           		                                     5 lines
+-> lines of codes for creating customers object         		                                     5 lines
+-> lines of code for creating transactions logic       		                                       15 lines
+-> lines of code for creating array of output data			                                         5 lines
+-> lines of code for reading actual output file and	creating array of the actual output          8 lines
+-> line of code for testing 							                                                       10 lines
 
