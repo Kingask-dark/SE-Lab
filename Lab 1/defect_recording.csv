@@ -1,0 +1,3 @@
+activity,task,starttime,endtime,description
+coding,mean function,6/3/2022 3:37,6/3/2022 3:40,main function should be written before mean function
+coding,calculate_mean function,6/3/2022 8:35,6/3/2022 8:35,mean function is changed to calculate_mean function

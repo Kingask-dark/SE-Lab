@@ -1,0 +1,14 @@
+activity,task,starttime,endtime,description
+planing,Write project summary,6/5/2022 15:20,6/5/2022 16:00,End of Lab period
+planing,Write project summary,6/5/2022 20:20,6/6/2022 20:40,Write a plan for the given lab problem
+coding,Creating data.txt file ,6/10/2022 15:00,6/10/2022 15:05,Data.txt file is created along with necessary data
+coding,Creating data.js file,6/10/2022 15:05,6/10/2022 15:10,Data.js file is created along with necessary imports is done
+coding,Creating fileops arrow functions,6/10/2022 15:10,6/10/2022 16:00,End of Lab period
+coding,Coding all logic realated to the program,6/12/2022 15:00,6/12/2022 16:00,End of Lab period
+coding,Reading data from data.txt,6/17/2022 15:00,6/17/2022 15:20,Reading data using fs with promise
+coding,Spliting the data ,6/17/2022 15:20,6/17/2022 15:30,Spliting the data to create object of employee and customers
+coding,Creating employee and customers object,6/17/2022 15:30,6/17/2022 16:00,Created Employee object Customers object and End of lab period 
+coding,Performing the Transaction operation,6/19/2022 15:00,6/19/2022 16:00,Perform operations related to transaction and End of lab period
+coding,Creating array of output data,6/19/2022 20:00,6/19/2022 20:10,Created array of output data
+coding,Creating the array of actual output,6/19/2022 20:20,6/19/2022 20:30,Created array of actual output data for testing purpose
+testing,Testing the output of the program,6/19/2022 20:30,6/19/2022 21:00,Successfully tested the output of the program

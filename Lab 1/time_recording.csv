@@ -1,0 +1,11 @@
+activity,task,starttime,endtime,description
+planing,write project summary,5/27/2022 3:20,5/27/2022 4:00,End of Lab period
+planing,write project summary,6/3/2022 3:12,6/3/2022 3:28,https://www.calculator.net/standard-deviation-calculator.html refrence is used for calculating mean and standard deviation
+coding,main function,6/3/2022 3:32,6/3/2022 3:50,Main function along with mean and sd signature is created
+coding,mean function,6/3/2022 3:57,6/3/2022 4:00,End of Lab period
+coding,calcuate_mean function,6/3/2022 8:30,6/3/2022 8:40,calculate_mean function is created 
+coding,sd_from_mean function,6/3/2022 8:40,6/3/2022 8:50,sd_from_mean function is created
+coding,test_mean function,6/3/2022 8:50,6/3/2022 9:00,test_mean function is created
+coding,test_sd function,6/3/2022 9:00,6/3/2022 9:10,test_sd function is created
+testing,testing test_mean function,6/3/2022 9:10,6/3/2022 9:20,testing of mean is sucessfully done
+testing,testing test_sd function,6/3/2022 9:20,6/3/2022 9:30,testing of standard deviation  is sucessfully done
