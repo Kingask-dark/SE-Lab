@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ashish.TDDSpec" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-29T09:47:20" hostname="KING-ASK" time="0.035">
+  <properties/>
+  <testcase name="test it works" classname="com.ashish.TDDSpec" time="0.035"/>
+  <system-out><![CDATA[?[36m15:32:20.250?[0;39m ?[1;30m[Test worker]?[0;39m ?[34mINFO ?[0;39m ?[35mi.m.context.env.DefaultEnvironment?[0;39m - Established active environments: [test]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
